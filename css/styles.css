@@ -1,0 +1,31 @@
+.indice{
+	background-color: #2d303a!important;
+}
+
+.navbar-light .navbar-brand{
+    color: #ffffff;
+}
+
+.primero{
+	background-color: #f06c64;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.segundo{
+	background-color: #f2f2f2!important;
+	margin-bottom: 0;
+}
+
+.tercero{
+	background-color: #2d303a;
+	margin-bottom: 0;
+}
+
+.cuarto{
+	margin-bottom: 0;
+}
+
+.quinto{
+	background-color: #f06c64;
+}
